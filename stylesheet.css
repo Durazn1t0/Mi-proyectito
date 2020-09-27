@@ -47,7 +47,8 @@ div.post{
     background-color:purple;
     width:74%;
     font-size:23px;
-    margin-left:15px;
+    margin: 5px;
+    padding: 5px;
 }
 ul.post-tittle li {
     font-family: 'Libre Baskerville', serif;
@@ -56,6 +57,7 @@ ul.post-tittle li {
     list-style: none;
     text-align: right;
     margin-right: 3%;
+    padding-top: 10px;
 }
 
 div.sidebar {
@@ -74,10 +76,11 @@ div.body2{
     background-color:black;
     width:1213px;
     margin:0 auto;
+    padding-bottom: 1px;
 }
 #footer{
-    background-color: white;
-    border: 2px dotted white;
+    color: white;
+    background-color: darkslategrey;
     padding: 2px;
     text-align: center;
     width:1050;
