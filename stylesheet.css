@@ -72,7 +72,7 @@ div.sidebarcontent{
 
 div.body2{
     background-color:black;
-    width:93%;
+    width:1214px;
     margin:0 auto;
 }
 #footer{
@@ -82,12 +82,15 @@ div.body2{
     text-align: center;
     width:1050;
     height: 50px;
+    padding-top: 20px;
+    padding-bottom: 20px;
 }
 
 #mensaje-especial {
     background-color: #FC6D45;
-    width:  100%;
+    width:  auto;
     margin:auto;
+    padding:8px;
 }
 
 /* fuentes */
