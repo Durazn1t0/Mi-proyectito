@@ -1,6 +1,8 @@
 body{
     background-color: #FBEFF4;
     background-image: url("imagen/backgroundfree.jpg");
+    margin:0;
+    width:100%;
 }
 
 div.header {
@@ -78,7 +80,8 @@ div.body2{
     border: 2px dotted white;
     padding: 2px;
     text-align: center;
-    margin:absolute;
+    width:1050;
+    height: 50px;
 }
 
 #mensaje-especial {
