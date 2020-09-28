@@ -51,7 +51,6 @@ div.post{
     margin-right: 5px;
     margin-bottom: 5px;
     padding: 10px;
-    word-wrap:break-word;
     font-family: 'Noto Sans', sans-serif;
     font-size: 25px;
     text-align:justify;
@@ -78,13 +77,15 @@ div.sidebarcontent{
     background-color:sandybrown;
     border: 1px solid green;
     height: 150px;
+    padding: 7px;
 }
 
 div.body2{
     background-color:black;
     width:1213px;
     margin:0 auto;
-    padding-bottom: 1px;
+    padding-bottom: 10px;
+    word-wrap:break-word;
 }
 #footer{
     color: white;
